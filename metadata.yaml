@@ -1,0 +1,26 @@
+_repo: Account-of-an-expedition-to-the-interior-of-New-Holland_69476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fox, Mary, Lady
+    gutenberg_agent_id: '41359'
+    url: http://www.gutenberg.org/2009/agents/41359
+description: ''
+gutenberg_issued: '2022-12-04'
+identifiers:
+  gutenberg: '69476'
+language: en
+pgterms:marc904: https://archive.org/details/accountofexpedit00foxm
+pgterms:marc905: 20190720215838fox
+pgterms:marc906: '1837'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Richard Bentley,1837.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Account of an expedition to the interior of New Holland
+url: http://www.gutenberg.org/ebooks/69476
