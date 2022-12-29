@@ -1,11 +1,16 @@
 _repo: Account-of-an-expedition-to-the-interior-of-New-Holland_69476
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69476-h/images/cover.jpg
 creator:
   author:
     agent_name: Fox, Mary, Lady
     gutenberg_agent_id: '41359'
     url: http://www.gutenberg.org/2009/agents/41359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69476#Account-of-an-expedition-to-the-interior-of-New-Holland
 gutenberg_issued: '2022-12-04'
 identifiers:
   gutenberg: '69476'
